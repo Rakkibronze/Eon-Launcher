@@ -21,7 +21,7 @@
     public const string DownloadBuildURL = "https://services.eonfn.dev/download";
 
     // Donations 
-    public const string DonationsURL = "https://services.eonfn.dev/donate";
+    public const string DonationsURL = "https://shop.eonfn.dev";
 
     // Support
     public const string SupportServerURL = "https://services.eonfn.dev/support";
